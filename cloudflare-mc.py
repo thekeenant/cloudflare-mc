@@ -19,7 +19,7 @@ EMAIL    = 'someone@example.com'
 RECORD   = 'lb' # where you want the load balancer
 
 # Your Cloudflare Domain
-DOMAIN   = 'avicus.net'
+DOMAIN   = 'domain.com'
 
 # Load balance IPs, will ping these and add all live results.
 HOSTS    = [
